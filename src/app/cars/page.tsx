@@ -2,10 +2,10 @@
 import FetchCar from '@/lib/api'
 import React from 'react'
 import DisplayProductComponent from "@/components/Display";
-import {CreateCarType} from "../../lib/types";
+import {Car} from "../../lib/types";
 
 const ProductPage = async () => {
-    const  data:CreateCarType[] = await FetchCar()
+    const  data:Car[] = await FetchCar(0.5)
     console.log(data)
     return (
         <div>
