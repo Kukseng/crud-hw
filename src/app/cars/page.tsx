@@ -6,7 +6,7 @@ import {Car} from "../../lib/types";
 import {Metadata} from "next";
 
 export const metadata: Metadata = {
-    title: "Car Rental",
+    title: "Car Shop",
     description: "This is car show all product",
     keywords: ["car", "discount", "modern", "luxeri", "web development"],
     authors: [{ name: "Marta Full Stack" }],

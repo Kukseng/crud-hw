@@ -5,7 +5,7 @@ import {Metadata} from "next";
 const BASE_URL = "https://jsonplaceholder.typicode.com/posts";
 
 export const metadata: Metadata = {
-    title: "Car Rental",
+    title: "Car Shop",
     description: "This is blog per 1",
     keywords: ["product", "discount", "modern", "test", "web development"],
     authors: [{ name: "Marta Full Stack" }],

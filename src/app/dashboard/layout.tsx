@@ -4,7 +4,7 @@ import Error from "./error";
 import {Metadata} from "next";
 
 export const metadata: Metadata = {
-    title: "Car Rental",
+    title: "Car Shop",
     description: "This is blog page",
     keywords: ["product", "discount", "modern", "test", "web development"],
     authors: [{name: "Marta Full Stack"}],
