@@ -11,10 +11,10 @@ export const metadata: Metadata = {
     authors: [{ name: "Marta Full Stack" }],
     creator: "Matra",
     openGraph: {
-        title: "Car Rental",
-        description: "Car Rental Application built with Next.js and React",
+        title: "Car Blog",
+        description: "Car Rental website that you can explore and order",
         url: "",
-        siteName: "Car Rental",
+        siteName: "Blog",
         images: [
             {
                 url: "https://imgs.search.brave.com/SVYEabTzcQSVZWQl9wiH3bdeXk-0I0RnY3H21gex6sU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL25ld19nYWxs/ZXJ5LzEyMS0xMjE3/NjA4X3Nwb3J0cy1j/YXItY2xpcGFydC1j/YXItY2xpcGFydC13/aXRob3V0LWJhY2tn/cm91bmQucG5n",

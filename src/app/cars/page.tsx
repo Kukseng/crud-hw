@@ -12,8 +12,8 @@ export const metadata: Metadata = {
     authors: [{ name: "Marta Full Stack" }],
     creator: "Matra",
     openGraph: {
-        title: "Car Rental",
-        description: "Car Rental Application built with Next.js and React",
+        title: "Car Show page",
+        description: "Car Rental website that you can explore and order",
         url: "",
         siteName: "Car Rental",
         images: [

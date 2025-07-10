@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     creator: "Matra",
     openGraph: {
         title: "About page",
-        description: "Car Rental Application built with Next.js and React",
+        description: "Car Rental website that you can explore and order",
         url: "",
         siteName: "Car About page",
         images: [
