@@ -11,6 +11,20 @@ export type CreateCarType = {
     image: string;
 };
 
+// export type Car = {
+//     id: string;
+//     make: string;
+//     model: string;
+//     year: number;
+//     price: number;
+//     mileage: number;
+//     description: string;
+//     color: string;
+//     fuel_type: string;
+//     transmission: string;
+//     image: string;
+// };
+
 export type UpdateCarType = {
     id?: string;
     make: string;
