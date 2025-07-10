@@ -63,3 +63,12 @@ export type LoginResponse = {
     user?: any;
     message?: string;
 };
+
+
+
+export type BlogType ={
+    id:number,
+    userId:number,
+    title:string,
+    body:string
+}
