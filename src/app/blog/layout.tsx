@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     creator: "Matra",
     openGraph: {
         title: "Car Blogs",
-        description: "Car Rental website that you can explore and order",
+        description: "Car shop website that you can explore and order",
         url: "",
         siteName: "Car Rental",
         images: [

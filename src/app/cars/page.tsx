@@ -13,9 +13,9 @@ export const metadata: Metadata = {
     creator: "Matra",
     openGraph: {
         title: "Car Show page",
-        description: "Car Rental website that you can explore and order",
+        description: "Car Shop website that you can explore and order",
         url: "",
-        siteName: "Car Rental",
+        siteName: "Car Shop",
         images: [
             {
                 url: "https://imgs.search.brave.com/SVYEabTzcQSVZWQl9wiH3bdeXk-0I0RnY3H21gex6sU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL25ld19nYWxs/ZXJ5LzEyMS0xMjE3/NjA4X3Nwb3J0cy1j/YXItY2xpcGFydC1j/YXItY2xpcGFydC13/aXRob3V0LWJhY2tn/cm91bmQucG5n",

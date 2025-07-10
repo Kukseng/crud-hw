@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     creator: "Matra",
     openGraph: {
         title: "Car Dashboard",
-        description: "Car Rental dashboard page",
+        description: "Car shop dashboard page",
         url: "",
         siteName: "Car Dashboard",
         images: [
