@@ -1,32 +1,17 @@
+// next.config.js or next.config.ts
+
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-    /* config options here */
-    compiler: {
-        styledComponents: true,
-    },
-    eslint: {
-        ignoreDuringBuilds: true
-    },
-    images: {
-        remotePatterns: [
-            {
-                protocol: 'https',
-                hostname: 'avatar.vercel.sh',
-                pathname: '/**',
-            },
-            {
-                protocol: 'https',
-                hostname: 'car-nextjs-api.cheatdev.online',
-                pathname: '/uploads/**',
-            },
-            {
-                protocol: 'http',
-                hostname: 'localhost',
-                pathname: '/uploads/**',
-            }
-        ]
-    }
+  compiler: {
+    styledComponents: true,
+  },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  images: {
+    domains: ['i.pinimg.com','imgs.search.brave.com','encrypted-tbn0.gstatic.com'],
+  },
 };
 
 export default nextConfig;
